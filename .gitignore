@@ -15,3 +15,5 @@ ProtectedPath
 ProtectedPath/
 ProtectedPath/*
 *.log
+data-TrafficLoader_Application-dev.txt
+data-TrafficLoader_Application-prod.txt
