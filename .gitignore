@@ -1,0 +1,17 @@
+*.pyc
+.virtualenvironment
+.virtualenvironment/
+.virtualenvironments
+.virtualenvironments/
+.venv/
+.venv
+.idea
+.idea/*
+.idea/
+Logs
+Logs/
+Logs/*
+ProtectedPath
+ProtectedPath/
+ProtectedPath/*
+*.log
